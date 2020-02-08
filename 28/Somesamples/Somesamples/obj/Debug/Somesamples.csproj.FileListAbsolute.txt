@@ -1,0 +1,7 @@
+D:\aleena\28\Somesamples\Somesamples\bin\Debug\Somesamples.exe.config
+D:\aleena\28\Somesamples\Somesamples\bin\Debug\Somesamples.exe
+D:\aleena\28\Somesamples\Somesamples\bin\Debug\Somesamples.pdb
+D:\aleena\28\Somesamples\Somesamples\obj\Debug\Somesamples.csprojResolveAssemblyReference.cache
+D:\aleena\28\Somesamples\Somesamples\obj\Debug\Somesamples.csproj.CoreCompileInputs.cache
+D:\aleena\28\Somesamples\Somesamples\obj\Debug\Somesamples.exe
+D:\aleena\28\Somesamples\Somesamples\obj\Debug\Somesamples.pdb

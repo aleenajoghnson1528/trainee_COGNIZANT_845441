@@ -1,0 +1,7 @@
+D:\aleena\c sha\lower\lower\obj\Debug\lower.csprojResolveAssemblyReference.cache
+D:\aleena\c sha\lower\lower\obj\Debug\lower.csproj.CoreCompileInputs.cache
+D:\aleena\c sha\lower\lower\bin\Debug\lower.exe.config
+D:\aleena\c sha\lower\lower\bin\Debug\lower.exe
+D:\aleena\c sha\lower\lower\bin\Debug\lower.pdb
+D:\aleena\c sha\lower\lower\obj\Debug\lower.exe
+D:\aleena\c sha\lower\lower\obj\Debug\lower.pdb

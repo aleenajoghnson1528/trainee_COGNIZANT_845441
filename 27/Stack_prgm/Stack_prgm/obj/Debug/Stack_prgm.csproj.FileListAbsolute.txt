@@ -1,0 +1,7 @@
+D:\aleena\27\Stack_prgm\Stack_prgm\bin\Debug\Stack_prgm.exe.config
+D:\aleena\27\Stack_prgm\Stack_prgm\bin\Debug\Stack_prgm.exe
+D:\aleena\27\Stack_prgm\Stack_prgm\bin\Debug\Stack_prgm.pdb
+D:\aleena\27\Stack_prgm\Stack_prgm\obj\Debug\Stack_prgm.csprojResolveAssemblyReference.cache
+D:\aleena\27\Stack_prgm\Stack_prgm\obj\Debug\Stack_prgm.csproj.CoreCompileInputs.cache
+D:\aleena\27\Stack_prgm\Stack_prgm\obj\Debug\Stack_prgm.exe
+D:\aleena\27\Stack_prgm\Stack_prgm\obj\Debug\Stack_prgm.pdb

@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+
+<script>
+
+function validate()
+{ 
+    var x=document.forms["myform"]["txtname"].value;
+     if(x=="")
+     {
+        alert("field can't be blank");
+	return false;
+      }
+}
+</script>
+</head>
+<body>
+
+<form name="myform" onsubmit="return validate()" method="post">
+name : <input type="text" name="txtname" ></br>
+dob : <input type="text" name="dob" required></br>
+<input type="submit" value="submit">
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+

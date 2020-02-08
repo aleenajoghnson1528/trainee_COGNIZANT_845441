@@ -1,0 +1,7 @@
+D:\aleena\c sha\age\age\bin\Debug\age.exe.config
+D:\aleena\c sha\age\age\bin\Debug\age.exe
+D:\aleena\c sha\age\age\bin\Debug\age.pdb
+D:\aleena\c sha\age\age\obj\Debug\age.csprojResolveAssemblyReference.cache
+D:\aleena\c sha\age\age\obj\Debug\age.csproj.CoreCompileInputs.cache
+D:\aleena\c sha\age\age\obj\Debug\age.exe
+D:\aleena\c sha\age\age\obj\Debug\age.pdb

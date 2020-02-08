@@ -1,0 +1,6 @@
+D:\aleena\27\Sortedlistexample\Sortedlistexample\bin\Debug\Sortedlistexample.exe.config
+D:\aleena\27\Sortedlistexample\Sortedlistexample\bin\Debug\Sortedlistexample.exe
+D:\aleena\27\Sortedlistexample\Sortedlistexample\bin\Debug\Sortedlistexample.pdb
+D:\aleena\27\Sortedlistexample\Sortedlistexample\obj\Debug\Sortedlistexample.csproj.CoreCompileInputs.cache
+D:\aleena\27\Sortedlistexample\Sortedlistexample\obj\Debug\Sortedlistexample.exe
+D:\aleena\27\Sortedlistexample\Sortedlistexample\obj\Debug\Sortedlistexample.pdb

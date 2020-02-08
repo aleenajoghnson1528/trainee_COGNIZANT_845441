@@ -1,0 +1,7 @@
+D:\aleena\29\queryexample\queryexample\bin\Debug\queryexample.exe.config
+D:\aleena\29\queryexample\queryexample\bin\Debug\queryexample.exe
+D:\aleena\29\queryexample\queryexample\bin\Debug\queryexample.pdb
+D:\aleena\29\queryexample\queryexample\obj\Debug\queryexample.csprojResolveAssemblyReference.cache
+D:\aleena\29\queryexample\queryexample\obj\Debug\queryexample.csproj.CoreCompileInputs.cache
+D:\aleena\29\queryexample\queryexample\obj\Debug\queryexample.exe
+D:\aleena\29\queryexample\queryexample\obj\Debug\queryexample.pdb

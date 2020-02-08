@@ -1,0 +1,6 @@
+D:\aleena\31st\assemblyexample\assemblyexample\bin\Debug\assemblyexample.exe.config
+D:\aleena\31st\assemblyexample\assemblyexample\bin\Debug\assemblyexample.exe
+D:\aleena\31st\assemblyexample\assemblyexample\bin\Debug\assemblyexample.pdb
+D:\aleena\31st\assemblyexample\assemblyexample\obj\Debug\assemblyexample.csproj.CoreCompileInputs.cache
+D:\aleena\31st\assemblyexample\assemblyexample\obj\Debug\assemblyexample.exe
+D:\aleena\31st\assemblyexample\assemblyexample\obj\Debug\assemblyexample.pdb

@@ -1,0 +1,7 @@
+D:\aleena\27\Employeenew\Employeenew\bin\Debug\Employeenew.exe.config
+D:\aleena\27\Employeenew\Employeenew\bin\Debug\Employeenew.exe
+D:\aleena\27\Employeenew\Employeenew\bin\Debug\Employeenew.pdb
+D:\aleena\27\Employeenew\Employeenew\obj\Debug\Employeenew.csprojResolveAssemblyReference.cache
+D:\aleena\27\Employeenew\Employeenew\obj\Debug\Employeenew.csproj.CoreCompileInputs.cache
+D:\aleena\27\Employeenew\Employeenew\obj\Debug\Employeenew.exe
+D:\aleena\27\Employeenew\Employeenew\obj\Debug\Employeenew.pdb

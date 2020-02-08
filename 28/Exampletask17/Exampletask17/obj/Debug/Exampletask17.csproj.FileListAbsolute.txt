@@ -1,0 +1,6 @@
+D:\aleena\28\Exampletask17\Exampletask17\obj\Debug\Exampletask17.csproj.CoreCompileInputs.cache
+D:\aleena\28\Exampletask17\Exampletask17\bin\Debug\Exampletask17.exe.config
+D:\aleena\28\Exampletask17\Exampletask17\bin\Debug\Exampletask17.exe
+D:\aleena\28\Exampletask17\Exampletask17\bin\Debug\Exampletask17.pdb
+D:\aleena\28\Exampletask17\Exampletask17\obj\Debug\Exampletask17.exe
+D:\aleena\28\Exampletask17\Exampletask17\obj\Debug\Exampletask17.pdb

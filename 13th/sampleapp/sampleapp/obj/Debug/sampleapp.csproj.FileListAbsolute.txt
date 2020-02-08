@@ -1,0 +1,7 @@
+D:\aleena\13th\sampleapp\sampleapp\obj\Debug\sampleapp.csprojResolveAssemblyReference.cache
+D:\aleena\13th\sampleapp\sampleapp\obj\Debug\sampleapp.csproj.CoreCompileInputs.cache
+D:\aleena\13th\sampleapp\sampleapp\bin\Debug\sampleapp.exe.config
+D:\aleena\13th\sampleapp\sampleapp\bin\Debug\sampleapp.exe
+D:\aleena\13th\sampleapp\sampleapp\bin\Debug\sampleapp.pdb
+D:\aleena\13th\sampleapp\sampleapp\obj\Debug\sampleapp.exe
+D:\aleena\13th\sampleapp\sampleapp\obj\Debug\sampleapp.pdb

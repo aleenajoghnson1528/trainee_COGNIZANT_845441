@@ -1,0 +1,7 @@
+D:\aleena\c sha\greet\greet\obj\Debug\greet.csprojResolveAssemblyReference.cache
+D:\aleena\c sha\greet\greet\obj\Debug\greet.csproj.CoreCompileInputs.cache
+D:\aleena\c sha\greet\greet\bin\Debug\greet.exe.config
+D:\aleena\c sha\greet\greet\bin\Debug\greet.exe
+D:\aleena\c sha\greet\greet\bin\Debug\greet.pdb
+D:\aleena\c sha\greet\greet\obj\Debug\greet.exe
+D:\aleena\c sha\greet\greet\obj\Debug\greet.pdb

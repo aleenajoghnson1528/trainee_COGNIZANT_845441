@@ -1,0 +1,7 @@
+D:\aleena\25\stringtest\stringtest\obj\Debug\stringtest.csprojResolveAssemblyReference.cache
+D:\aleena\25\stringtest\stringtest\obj\Debug\stringtest.csproj.CoreCompileInputs.cache
+D:\aleena\25\stringtest\stringtest\bin\Debug\stringtest.exe.config
+D:\aleena\25\stringtest\stringtest\bin\Debug\stringtest.exe
+D:\aleena\25\stringtest\stringtest\bin\Debug\stringtest.pdb
+D:\aleena\25\stringtest\stringtest\obj\Debug\stringtest.exe
+D:\aleena\25\stringtest\stringtest\obj\Debug\stringtest.pdb

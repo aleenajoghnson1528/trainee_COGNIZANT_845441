@@ -1,0 +1,5 @@
+c:\users\admin\source\repos\ClassLibraryactivity\ClassLibraryactivity\bin\Debug\ClassLibraryactivity.dll
+c:\users\admin\source\repos\ClassLibraryactivity\ClassLibraryactivity\bin\Debug\ClassLibraryactivity.pdb
+c:\users\admin\source\repos\ClassLibraryactivity\ClassLibraryactivity\obj\Debug\ClassLibraryactivity.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ClassLibraryactivity\ClassLibraryactivity\obj\Debug\ClassLibraryactivity.dll
+c:\users\admin\source\repos\ClassLibraryactivity\ClassLibraryactivity\obj\Debug\ClassLibraryactivity.pdb

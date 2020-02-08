@@ -1,0 +1,7 @@
+D:\aleena\c sha\function\function\obj\Debug\function.csprojResolveAssemblyReference.cache
+D:\aleena\c sha\function\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+D:\aleena\c sha\function\function\bin\Debug\function.exe.config
+D:\aleena\c sha\function\function\bin\Debug\function.exe
+D:\aleena\c sha\function\function\bin\Debug\function.pdb
+D:\aleena\c sha\function\function\obj\Debug\function.exe
+D:\aleena\c sha\function\function\obj\Debug\function.pdb

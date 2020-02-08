@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Add program</title>
+</head>
+
+
+
+<body>
+<center>
+
+<br>
+<br>
+
+value1 :<input type="text" id="value1"></br></br>
+value2 : <input type="text" id="value2"></br></br>
+<input type="button" name="clickbutton" value="Click here" onclick="addNumbers()">
+</center>
+        <script language="javascript">
+                function addNumbers()
+                {
+                        var val1 = parseInt(document.getElementById("value1").value);
+                        var val2 = parseInt(document.getElementById("value2").value);
+                        var ans= val1+val2;
+			window.alert(' sum of '+val1+' and '+val2+' = '+ ans);
+                }
+        </script>
+ 
+  
+  </body>
+</html>

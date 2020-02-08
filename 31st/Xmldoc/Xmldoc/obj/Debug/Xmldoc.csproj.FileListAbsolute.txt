@@ -1,0 +1,7 @@
+D:\aleena\31st\Xmldoc\Xmldoc\bin\Debug\Xmldoc.exe.config
+D:\aleena\31st\Xmldoc\Xmldoc\bin\Debug\Xmldoc.exe
+D:\aleena\31st\Xmldoc\Xmldoc\bin\Debug\Xmldoc.pdb
+D:\aleena\31st\Xmldoc\Xmldoc\obj\Debug\Xmldoc.csprojResolveAssemblyReference.cache
+D:\aleena\31st\Xmldoc\Xmldoc\obj\Debug\Xmldoc.csproj.CoreCompileInputs.cache
+D:\aleena\31st\Xmldoc\Xmldoc\obj\Debug\Xmldoc.exe
+D:\aleena\31st\Xmldoc\Xmldoc\obj\Debug\Xmldoc.pdb

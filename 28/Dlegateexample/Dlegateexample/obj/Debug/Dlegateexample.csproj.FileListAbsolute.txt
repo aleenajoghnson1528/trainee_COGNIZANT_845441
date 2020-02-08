@@ -1,0 +1,7 @@
+D:\aleena\28\Dlegateexample\Dlegateexample\bin\Debug\Dlegateexample.exe.config
+D:\aleena\28\Dlegateexample\Dlegateexample\bin\Debug\Dlegateexample.exe
+D:\aleena\28\Dlegateexample\Dlegateexample\bin\Debug\Dlegateexample.pdb
+D:\aleena\28\Dlegateexample\Dlegateexample\obj\Debug\Dlegateexample.csprojResolveAssemblyReference.cache
+D:\aleena\28\Dlegateexample\Dlegateexample\obj\Debug\Dlegateexample.csproj.CoreCompileInputs.cache
+D:\aleena\28\Dlegateexample\Dlegateexample\obj\Debug\Dlegateexample.exe
+D:\aleena\28\Dlegateexample\Dlegateexample\obj\Debug\Dlegateexample.pdb
