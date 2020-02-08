@@ -1,0 +1,142 @@
+<!doctype html> 
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>My First web page</title>
+</head>
+<body bgcolor="red">
+<img src="a.jpg "width="300" height="300">
+
+<h1><center>This page contains some List Elements</center></h1>
+
+<a href="https://www.indiatimes.com">Times Of India</a>
+
+
+
+<p>
+<audio controls>
+<source src="kalimba.mp3" type ="audio/mpeg">
+
+</audio>
+</p>
+
+<p>
+<video width="900" controls>
+<source src="wild.mp4" type ="video/mp4">
+
+</video>
+</p>
+---------------------------------------------------------
+<!doctype html> 
+<html>
+<head>
+<meta charset="utf-8">
+<title> My First web page</title>
+</head>
+<body bgcolor="red">
+<h1>My first web page using  html5</h1>
+
+<section>
+<header>
+<h3>Treand in it industry</h3>
+</header>
+<p>As version changes features included in the particular technology is also get changed.
+Now most of proffessionals are using html5 for creating webpages.
+<footer>
+<h4>Cts &reg;</h4>
+<h5>all Rights are reserved : &copy;2020</h5>
+
+</footer>
+</section>
+</body>
+</html>
+----------------------------------------------
+<!doctype html> 
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>My First web page</title>
+</head>
+<body bgcolor="red">
+
+<h1><center>This page contains some List Elements</center></h1>
+<h4> Breweries and condiments</h4>
+
+<!unordered list>
+<ul>             
+<li>cofee</li>
+<li>Tea</li>
+<li>Badam drink</li>
+</ul>
+
+<h4>Chinese Cuisine</h4>
+
+<!ordered list>
+<ol>
+<li>Tandoor Roti</li>
+<li>Paneer Butter Masla</li>
+<li>Vegetable Mix</li>
+<li>Mushroom Soup</li>
+</ol>
+<img src="a.jpg" height="300" width="300" alt ="This is unavailable">
+
+
+
+<!table>
+
+<h3>Items in tabular form</h3>
+<table border="5">
+<tr>
+<th>sl.no</th>
+<th>product name</th>
+<th>Price</th>
+<th>Brand</th>
+</tr>
+
+<tr>
+<td>1</td><td>Laptop</td><td>28000</td><td>Acer</td>
+</tr>
+<tr>
+<td>2</td><td>Notebook</td><td>35000</td><td>samsung</td>
+</tr>
+</table>
+
+</body>
+</html>
+         
+-------------------------------------------------------------
+<!doctype html> 
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>My First web page</title>
+</head>
+<body bgcolor="red">
+<img src="a.jpg "width="300" height="300">
+
+<h1><center>This page contains some List Elements</center></h1>
+<div style="font-family:arial;color:blue">
+This content is defined within a div element.
+if you want to add lines
+</div>
+Here is the rest of the content .
+
+<hr>
+<span style="font-family:Arial;color:blue">
+This content defined within a span element.
+if you want to add lines
+
+</span>
+But this content is shown along with content of the span element.
+
+<h3>Significance of Sports</h3>
+<p>For getting a better society people should be physically fit enough. 
+
+</body>
+</html>
+----------------------------------------------------------------------------------------
+
+
