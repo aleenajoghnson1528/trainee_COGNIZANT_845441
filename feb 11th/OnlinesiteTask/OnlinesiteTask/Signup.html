@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>E Ticket booking service</title>
+    <script>
+
+
+
+        function check_pass() {
+            if (document.getElementById('Password2').value !=
+                document.getElementById('Password1').value)
+            {
+                window.alert("Both password have to be same");
+                return false;
+            }
+        }
+    </script>
+
+    <style>
+        input {
+            padding: 10px;
+            width: 100%;
+        }
+
+        body {
+            background-image: url('bgg.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .imagediv {
+            text-align: center;
+            margin: 24px 0 12px 0;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <div class="jumbotron">
+        <h1 style=" text-align:center;color: palevioletred">Sign up  form</h1>
+        <form action="booking page.html" onSubmit="return check_pass()" method="get">
+            <div class="imagediv">
+                <img src="a.png" alt="person" class="person" />
+            </div>
+            <fieldset style=" border-color:darkred">
+                <legend style="text-align:center">Signup form</legend>
+
+
+                <table align="center">
+                    <tr>
+                        <th style=" padding:10px"><label for="title">First Name:</label></th>
+                        <th>
+                            <input id="Text1" type="text" required /><br />
+                        </th>
+                    </tr>
+                    <tr>
+                        <th style=" padding:10px"><label for="title">Second Name:</label></th>
+                        <th>
+                            <input id="Text1" type="text" required /><br />
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <th style=" padding:10px">
+                            Email
+                        <th>
+                            <input id="Text2" type="text" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" /><br />
+                        </th>
+                    </tr>
+                    <tr>
+                        <th style=" padding:10px">
+                            Mobile Number
+                        </th>
+                        <th>  <input id="Text3" type="text" pattern="[0-9]{10}" title="10 numbers" /><br /></th>
+                    </tr>
+
+                    <tr>
+                        <th style=" padding:10px">
+                            Enter your Password
+                        </th>
+                        <th>
+                            <input id="Password1" type="password" pattern="(?=.*[a-z])(?=.*[A-Z]).{8,}" title="eight or more characters" />
+                        </th>
+                    </tr>
+                    <tr>
+                        <th style=" padding:10px">
+                            Confirm password
+                        </th>
+                        <th><input id="Password2" type="password" /></th>
+                    </tr>
+                    <tr>
+                        <th colspan=2 align=right>
+                            <p>
+                                <input style="background-color:green; width:60%;height:40%;margin:69Px;padding:7%;align-content:center" id="Submit1" type="submit" value="submit" />
+                                <a href="Ticket_booking_form.html"></a>
+                        </th>
+                    </tr>
+
+
+                </table>
+            </fieldset>
+
+
+        </form>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>confirm booking</title>
+
+    <style>
+        body {
+            background-image: url('bgg.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        input[type=text], input[type=password], input[type=email] {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px groove;
+            box-sizing: border-box;
+        }
+
+        .container {
+            padding: 16px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="imagediv">
+        <img src="a.jpg" alt="person" class="person" />
+    </div>
+
+    <div class="Container">
+        <label for="name"><b>name</b></label>
+        <input type="text" placeholder="Enter your name" name="name" required /><br />
+        <label for="address"><b>shipping address</b></label>
+        <input type="text" placeholder="Enter address" name="address" required />
+        <label for="address1"><b>alternative  address</b></label>
+        <input type="text" placeholder="Enter address" name="address1" required />
+        <label for="email"><b>Email</b></label>
+        <input type="email" placeholder="Enter your email" name="email" required /><br />
+        <label for="payment method"><b>mode of payment</b></label><br/>
+        debit card: <input type="radio" name="payment method" value="debit card" /><br />
+       credit card: <input type="radio" name="payment method" value="credit card" /><br />
+       paytm: <input type="radio" name="payment method" value="paytm" /><br />
+       google pay: <input type="radio" name="payment method" value="google pay" /><br />
+        paypal:<input type="radio" name="payment method" value="paypal" /><br />
+
+
+
+        <form name="Myform" action="confirmation.html" method="get">
+            <button type="submit">confirm order</button>
+        </form>
+    </div>
+    <div class="container" style="background-color:#f1f1f1">
+        <button type="button" class="cancelbtn">Cancel</button>
+
+    </div>
+
+</body>
+</html>
