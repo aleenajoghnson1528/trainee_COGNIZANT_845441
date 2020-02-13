@@ -1,0 +1,15 @@
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\CodeFirstDemoEF.exe.config
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\CodeFirstDemoEF.exe
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\CodeFirstDemoEF.pdb
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\EntityFramework.dll
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\EntityFramework.xml
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\obj\Debug\CodeFirstDemoEF.csprojResolveAssemblyReference.cache
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\obj\Debug\CodeFirstDemoEF.csproj.CoreCompileInputs.cache
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\obj\Debug\CodeFirstDemoEF.exe
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\obj\Debug\CodeFirstDemoEF.pdb
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\obj\Debug\CodeFirstDemoEF.Migrations.createEmployee.resources
+D:\aleena\feb12th\CodeFirstDemoEF\CodeFirstDemoEF\obj\Debug\CodeFirstDemoEF.csproj.GenerateResource.Cache
