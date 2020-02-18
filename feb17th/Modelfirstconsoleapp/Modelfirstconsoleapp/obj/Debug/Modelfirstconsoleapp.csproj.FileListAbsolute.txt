@@ -1,0 +1,11 @@
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\bin\Debug\Modelfirstconsoleapp.exe.config
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\bin\Debug\Modelfirstconsoleapp.exe
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\bin\Debug\Modelfirstconsoleapp.pdb
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\bin\Debug\EntityFramework.dll
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\bin\Debug\EntityFramework.SqlServer.dll
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\bin\Debug\EntityFramework.xml
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\bin\Debug\EntityFramework.SqlServer.xml
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\obj\Debug\Modelfirstconsoleapp.csprojResolveAssemblyReference.cache
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\obj\Debug\Modelfirstconsoleapp.csproj.CoreCompileInputs.cache
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\obj\Debug\Modelfirstconsoleapp.exe
+D:\aleena\feb17th\Modelfirstconsoleapp\Modelfirstconsoleapp\obj\Debug\Modelfirstconsoleapp.pdb

@@ -1,0 +1,13 @@
+D:\aleena\feb14th\Bookapp\Bookapp\obj\Debug\Bookapp.csprojResolveAssemblyReference.cache
+D:\aleena\feb14th\Bookapp\Bookapp\obj\Debug\Bookapp.csproj.CoreCompileInputs.cache
+D:\aleena\feb14th\Bookapp\Bookapp\bin\Debug\Bookapp.exe.config
+D:\aleena\feb14th\Bookapp\Bookapp\bin\Debug\Bookapp.exe
+D:\aleena\feb14th\Bookapp\Bookapp\bin\Debug\Bookapp.pdb
+D:\aleena\feb14th\Bookapp\Bookapp\bin\Debug\EntityFramework.dll
+D:\aleena\feb14th\Bookapp\Bookapp\bin\Debug\EntityFramework.SqlServer.dll
+D:\aleena\feb14th\Bookapp\Bookapp\bin\Debug\EntityFramework.xml
+D:\aleena\feb14th\Bookapp\Bookapp\bin\Debug\EntityFramework.SqlServer.xml
+D:\aleena\feb14th\Bookapp\Bookapp\obj\Debug\Bookapp.exe
+D:\aleena\feb14th\Bookapp\Bookapp\obj\Debug\Bookapp.pdb
+D:\aleena\feb14th\Bookapp\Bookapp\obj\Debug\Bookapp.Migrations.createBookAuthor.resources
+D:\aleena\feb14th\Bookapp\Bookapp\obj\Debug\Bookapp.csproj.GenerateResource.Cache

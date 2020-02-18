@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="modelfirstentityone" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="modelfirstentityoneContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Students" EntityType="modelfirstentityone.Student" />
+    <EntitySet Name="Schools" EntityType="modelfirstentityone.School" />
+    <EntitySet Name="Course_offering" EntityType="modelfirstentityone.Course_offering" />
+    <EntitySet Name="Exams" EntityType="modelfirstentityone.Exam" />
+    <AssociationSet Name="fknew" Association="modelfirstentityone.fknew">
+      <End Role="Course_offering" EntitySet="Course_offering" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="fknewc" Association="modelfirstentityone.fknewc">
+      <End Role="Course_offering" EntitySet="Course_offering" />
+      <End Role="Exam" EntitySet="Exams" />
+    </AssociationSet>
+    <AssociationSet Name="fknewcs" Association="modelfirstentityone.fknewcs">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="Exam" EntitySet="Exams" />
+    </AssociationSet>
+    <AssociationSet Name="fk" Association="modelfirstentityone.fk">
+      <End Role="School" EntitySet="Schools" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Sid" />
+    </Key>
+    <Property Name="Sid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Sname" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="school_id" Type="Int32" Nullable="false" />
+    <Property Name="Course_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Course_offering" Relationship="modelfirstentityone.fknew" FromRole="Student" ToRole="Course_offering" />
+    <NavigationProperty Name="Exams" Relationship="modelfirstentityone.fknewcs" FromRole="Student" ToRole="Exam" />
+    <NavigationProperty Name="School" Relationship="modelfirstentityone.fk" FromRole="Student" ToRole="School" />
+  </EntityType>
+  <EntityType Name="School">
+    <Key>
+      <PropertyRef Name="School_id" />
+    </Key>
+    <Property Name="School_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="School_name" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="address" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Students" Relationship="modelfirstentityone.fk" FromRole="School" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Course_offering">
+    <Key>
+      <PropertyRef Name="Course_id" />
+    </Key>
+    <Property Name="Course_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="semester" Type="Int32" Nullable="false" />
+    <Property Name="year" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="room" Type="Int32" Nullable="false" />
+    <Property Name="Cname" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Students" Relationship="modelfirstentityone.fknew" FromRole="Course_offering" ToRole="Student" />
+    <NavigationProperty Name="Exams" Relationship="modelfirstentityone.fknewc" FromRole="Course_offering" ToRole="Exam" />
+  </EntityType>
+  <EntityType Name="Exam">
+    <Key>
+      <PropertyRef Name="Eid" />
+    </Key>
+    <Property Name="Eid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ename" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Place" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Course_id" Type="Int32" Nullable="false" />
+    <Property Name="Exam_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Sid" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Course_offering" Relationship="modelfirstentityone.fknewc" FromRole="Exam" ToRole="Course_offering" />
+    <NavigationProperty Name="Student" Relationship="modelfirstentityone.fknewcs" FromRole="Exam" ToRole="Student" />
+  </EntityType>
+  <Association Name="fknew">
+    <End Type="modelfirstentityone.Course_offering" Role="Course_offering" Multiplicity="1" />
+    <End Type="modelfirstentityone.Student" Role="Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course_offering">
+        <PropertyRef Name="Course_id" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="Course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fknewc">
+    <End Type="modelfirstentityone.Course_offering" Role="Course_offering" Multiplicity="1" />
+    <End Type="modelfirstentityone.Exam" Role="Exam" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course_offering">
+        <PropertyRef Name="Course_id" />
+      </Principal>
+      <Dependent Role="Exam">
+        <PropertyRef Name="Course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fknewcs">
+    <End Type="modelfirstentityone.Student" Role="Student" Multiplicity="1" />
+    <End Type="modelfirstentityone.Exam" Role="Exam" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="Sid" />
+      </Principal>
+      <Dependent Role="Exam">
+        <PropertyRef Name="Sid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk">
+    <End Type="modelfirstentityone.School" Role="School" Multiplicity="1" />
+    <End Type="modelfirstentityone.Student" Role="Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="School">
+        <PropertyRef Name="School_id" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="school_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

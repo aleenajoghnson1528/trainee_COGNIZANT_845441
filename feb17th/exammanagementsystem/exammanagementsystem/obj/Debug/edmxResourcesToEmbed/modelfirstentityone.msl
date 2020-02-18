@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="modelfirstentityoneStoreContainer" CdmEntityContainer="modelfirstentityoneContainer">
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="IsTypeOf(modelfirstentityone.Student)">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="Sid" ColumnName="Sid" />
+          <ScalarProperty Name="Sname" ColumnName="Sname" />
+          <ScalarProperty Name="school_id" ColumnName="school_id" />
+          <ScalarProperty Name="Course_id" ColumnName="Course_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Schools">
+      <EntityTypeMapping TypeName="IsTypeOf(modelfirstentityone.School)">
+        <MappingFragment StoreEntitySet="Schools">
+          <ScalarProperty Name="School_id" ColumnName="School_id" />
+          <ScalarProperty Name="School_name" ColumnName="School_name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Course_offering">
+      <EntityTypeMapping TypeName="IsTypeOf(modelfirstentityone.Course_offering)">
+        <MappingFragment StoreEntitySet="Course_offering">
+          <ScalarProperty Name="Course_id" ColumnName="Course_id" />
+          <ScalarProperty Name="semester" ColumnName="semester" />
+          <ScalarProperty Name="year" ColumnName="year" />
+          <ScalarProperty Name="room" ColumnName="room" />
+          <ScalarProperty Name="Cname" ColumnName="Cname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Exams">
+      <EntityTypeMapping TypeName="IsTypeOf(modelfirstentityone.Exam)">
+        <MappingFragment StoreEntitySet="Exams">
+          <ScalarProperty Name="Eid" ColumnName="Eid" />
+          <ScalarProperty Name="Ename" ColumnName="Ename" />
+          <ScalarProperty Name="Place" ColumnName="Place" />
+          <ScalarProperty Name="Course_id" ColumnName="Course_id" />
+          <ScalarProperty Name="Exam_date" ColumnName="Exam_date" />
+          <ScalarProperty Name="Sid" ColumnName="Sid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

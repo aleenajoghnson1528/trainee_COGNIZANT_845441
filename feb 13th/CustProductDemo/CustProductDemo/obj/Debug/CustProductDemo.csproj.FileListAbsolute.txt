@@ -1,0 +1,13 @@
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\bin\Debug\CustProductDemo.exe.config
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\bin\Debug\CustProductDemo.exe
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\bin\Debug\CustProductDemo.pdb
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\bin\Debug\EntityFramework.dll
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\bin\Debug\EntityFramework.xml
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\obj\Debug\CustProductDemo.csprojResolveAssemblyReference.cache
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\obj\Debug\CustProductDemo.csproj.CoreCompileInputs.cache
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\obj\Debug\CustProductDemo.exe
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\obj\Debug\CustProductDemo.pdb
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\obj\Debug\CustProductDemo.Migrations.createCustpro.resources
+D:\aleena\feb 13th\CustProductDemo\CustProductDemo\obj\Debug\CustProductDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeenewdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="DepID" />
+    </Key>
+    <Property Name="DepID" Type="int" Nullable="false" />
+    <Property Name="DepName" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Employeenewdb.dbo.employee' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="employee">
+    <Key>
+      <PropertyRef Name="EmpID" />
+      <PropertyRef Name="EmpName" />
+      <PropertyRef Name="SSN" />
+      <PropertyRef Name="Salary" />
+      <PropertyRef Name="DepID" />
+    </Key>
+    <Property Name="EmpID" Type="int" Nullable="false" />
+    <Property Name="EmpName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SSN" Type="bigint" Nullable="false" />
+    <Property Name="Salary" Type="float" Nullable="false" />
+    <Property Name="DepID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="EmployeenewdbModelStoreContainer">
+    <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="employee" EntityType="Self.employee" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [employee].[EmpID] AS [EmpID], 
+    [employee].[EmpName] AS [EmpName], 
+    [employee].[SSN] AS [SSN], 
+    [employee].[Salary] AS [Salary], 
+    [employee].[DepID] AS [DepID]
+    FROM [dbo].[employee] AS [employee]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

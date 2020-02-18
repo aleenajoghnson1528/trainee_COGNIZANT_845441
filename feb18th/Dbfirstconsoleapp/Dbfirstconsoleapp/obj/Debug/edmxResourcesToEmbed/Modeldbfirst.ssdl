@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="examinationModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Course_offering">
+    <Key>
+      <PropertyRef Name="Course_id" />
+    </Key>
+    <Property Name="Course_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="semester" Type="int" Nullable="false" />
+    <Property Name="year" Type="datetime" Nullable="false" />
+    <Property Name="room" Type="int" Nullable="false" />
+    <Property Name="Cname" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'examination.dbo.Exams' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Exams">
+    <Key>
+      <PropertyRef Name="Eid" />
+      <PropertyRef Name="Ename" />
+      <PropertyRef Name="Place" />
+      <PropertyRef Name="Course_id" />
+      <PropertyRef Name="Exam_date" />
+      <PropertyRef Name="Sid" />
+    </Key>
+    <Property Name="Eid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ename" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Place" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Course_id" Type="int" Nullable="false" />
+    <Property Name="Exam_date" Type="datetime" Nullable="false" />
+    <Property Name="Sid" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Schools">
+    <Key>
+      <PropertyRef Name="School_id" />
+    </Key>
+    <Property Name="School_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="School_name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="address" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Sid" />
+    </Key>
+    <Property Name="Sid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Sname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="school_id" Type="int" Nullable="false" />
+    <Property Name="Course_id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="fk">
+    <End Role="Schools" Type="Self.Schools" Multiplicity="1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Schools">
+        <PropertyRef Name="School_id" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="school_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fknew">
+    <End Role="Course_offering" Type="Self.Course_offering" Multiplicity="1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course_offering">
+        <PropertyRef Name="Course_id" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="Course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="examinationModelStoreContainer">
+    <EntitySet Name="Course_offering" EntityType="Self.Course_offering" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Schools" EntityType="Self.Schools" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Exams" EntityType="Self.Exams" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Exams].[Eid] AS [Eid], 
+    [Exams].[Ename] AS [Ename], 
+    [Exams].[Place] AS [Place], 
+    [Exams].[Course_id] AS [Course_id], 
+    [Exams].[Exam_date] AS [Exam_date], 
+    [Exams].[Sid] AS [Sid]
+    FROM [dbo].[Exams] AS [Exams]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="fk" Association="Self.fk">
+      <End Role="Schools" EntitySet="Schools" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="fknew" Association="Self.fknew">
+      <End Role="Course_offering" EntitySet="Course_offering" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

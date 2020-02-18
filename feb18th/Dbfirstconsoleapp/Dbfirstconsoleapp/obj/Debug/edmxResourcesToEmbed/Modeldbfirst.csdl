@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="examinationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Course_offering">
+    <Key>
+      <PropertyRef Name="Course_id" />
+    </Key>
+    <Property Name="Course_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="semester" Type="Int32" Nullable="false" />
+    <Property Name="year" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="room" Type="Int32" Nullable="false" />
+    <Property Name="Cname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="Self.fknew" FromRole="Course_offering" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="School">
+    <Key>
+      <PropertyRef Name="School_id" />
+    </Key>
+    <Property Name="School_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="School_name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="Self.fk" FromRole="Schools" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Sid" />
+    </Key>
+    <Property Name="Sid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Sname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="school_id" Type="Int32" Nullable="false" />
+    <Property Name="Course_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Course_offering" Relationship="Self.fknew" FromRole="Students" ToRole="Course_offering" />
+    <NavigationProperty Name="School" Relationship="Self.fk" FromRole="Students" ToRole="Schools" />
+  </EntityType>
+  <EntityType Name="Exam">
+    <Key>
+      <PropertyRef Name="Eid" />
+      <PropertyRef Name="Ename" />
+      <PropertyRef Name="Place" />
+      <PropertyRef Name="Course_id" />
+      <PropertyRef Name="Exam_date" />
+      <PropertyRef Name="Sid" />
+    </Key>
+    <Property Name="Eid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ename" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Place" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Course_id" Type="Int32" Nullable="false" />
+    <Property Name="Exam_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Sid" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="fknew">
+    <End Role="Course_offering" Type="Self.Course_offering" Multiplicity="1" />
+    <End Role="Students" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course_offering">
+        <PropertyRef Name="Course_id" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="Course_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk">
+    <End Role="Schools" Type="Self.School" Multiplicity="1" />
+    <End Role="Students" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Schools">
+        <PropertyRef Name="School_id" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="school_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="examinationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Course_offering" EntityType="Self.Course_offering" />
+    <EntitySet Name="Schools" EntityType="Self.School" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <EntitySet Name="Exams" EntityType="Self.Exam" />
+    <AssociationSet Name="fknew" Association="Self.fknew">
+      <End Role="Course_offering" EntitySet="Course_offering" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="fk" Association="Self.fk">
+      <End Role="Schools" EntitySet="Schools" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

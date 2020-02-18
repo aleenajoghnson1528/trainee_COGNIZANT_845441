@@ -1,0 +1,13 @@
+D:\aleena\feb 13th\Newdemo\Newdemo\bin\Debug\Newdemo.exe.config
+D:\aleena\feb 13th\Newdemo\Newdemo\bin\Debug\Newdemo.exe
+D:\aleena\feb 13th\Newdemo\Newdemo\bin\Debug\Newdemo.pdb
+D:\aleena\feb 13th\Newdemo\Newdemo\bin\Debug\EntityFramework.dll
+D:\aleena\feb 13th\Newdemo\Newdemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\aleena\feb 13th\Newdemo\Newdemo\bin\Debug\EntityFramework.xml
+D:\aleena\feb 13th\Newdemo\Newdemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\aleena\feb 13th\Newdemo\Newdemo\obj\Debug\Newdemo.csprojResolveAssemblyReference.cache
+D:\aleena\feb 13th\Newdemo\Newdemo\obj\Debug\Newdemo.csproj.CoreCompileInputs.cache
+D:\aleena\feb 13th\Newdemo\Newdemo\obj\Debug\Newdemo.exe
+D:\aleena\feb 13th\Newdemo\Newdemo\obj\Debug\Newdemo.pdb
+D:\aleena\feb 13th\Newdemo\Newdemo\obj\Debug\Newdemo.Migrations.createProducts.resources
+D:\aleena\feb 13th\Newdemo\Newdemo\obj\Debug\Newdemo.csproj.GenerateResource.Cache

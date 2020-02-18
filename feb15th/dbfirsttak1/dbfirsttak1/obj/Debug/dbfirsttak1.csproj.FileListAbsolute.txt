@@ -1,0 +1,11 @@
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\bin\Debug\dbfirsttak1.exe.config
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\bin\Debug\dbfirsttak1.exe
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\bin\Debug\dbfirsttak1.pdb
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\bin\Debug\EntityFramework.dll
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\bin\Debug\EntityFramework.SqlServer.dll
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\bin\Debug\EntityFramework.xml
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\bin\Debug\EntityFramework.SqlServer.xml
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\obj\Debug\dbfirsttak1.csprojResolveAssemblyReference.cache
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\obj\Debug\dbfirsttak1.csproj.CoreCompileInputs.cache
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\obj\Debug\dbfirsttak1.exe
+D:\aleena\feb15th\dbfirsttak1\dbfirsttak1\obj\Debug\dbfirsttak1.pdb

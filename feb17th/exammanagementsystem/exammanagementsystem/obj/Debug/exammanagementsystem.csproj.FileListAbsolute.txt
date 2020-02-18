@@ -1,0 +1,11 @@
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\bin\Debug\exammanagementsystem.exe.config
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\bin\Debug\exammanagementsystem.exe
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\bin\Debug\exammanagementsystem.pdb
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\bin\Debug\EntityFramework.dll
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\bin\Debug\EntityFramework.xml
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\obj\Debug\exammanagementsystem.csprojResolveAssemblyReference.cache
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\obj\Debug\exammanagementsystem.csproj.CoreCompileInputs.cache
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\obj\Debug\exammanagementsystem.exe
+D:\aleena\feb17th\exammanagementsystem\exammanagementsystem\obj\Debug\exammanagementsystem.pdb
