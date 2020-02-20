@@ -1,0 +1,7 @@
+D:\aleena\feb18th\mail\mail\bin\Debug\mail.exe.config
+D:\aleena\feb18th\mail\mail\bin\Debug\mail.exe
+D:\aleena\feb18th\mail\mail\bin\Debug\mail.pdb
+D:\aleena\feb18th\mail\mail\obj\Debug\mail.csprojResolveAssemblyReference.cache
+D:\aleena\feb18th\mail\mail\obj\Debug\mail.csproj.CoreCompileInputs.cache
+D:\aleena\feb18th\mail\mail\obj\Debug\mail.exe
+D:\aleena\feb18th\mail\mail\obj\Debug\mail.pdb

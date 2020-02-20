@@ -1,0 +1,2 @@
+D:\aleena\feb18th\mailsend\mailsend\obj\Debug\mailsend.csprojResolveAssemblyReference.cache
+D:\aleena\feb18th\mailsend\mailsend\obj\Debug\mailsend.csproj.CoreCompileInputs.cache
