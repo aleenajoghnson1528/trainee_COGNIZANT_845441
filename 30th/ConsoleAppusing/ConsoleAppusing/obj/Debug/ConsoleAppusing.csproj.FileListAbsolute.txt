@@ -1,9 +1,0 @@
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\bin\Debug\ConsoleAppusing.exe.config
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\bin\Debug\ConsoleAppusing.exe
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\bin\Debug\ConsoleAppusing.pdb
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\bin\Debug\LibraryExample.dll
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\bin\Debug\LibraryExample.pdb
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\obj\Debug\ConsoleAppusing.csprojResolveAssemblyReference.cache
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\obj\Debug\ConsoleAppusing.csproj.CoreCompileInputs.cache
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\obj\Debug\ConsoleAppusing.exe
-D:\aleena\30th\ConsoleAppusing\ConsoleAppusing\obj\Debug\ConsoleAppusing.pdb

@@ -1,7 +1,0 @@
-D:\aleena\c sha\enums\enums\obj\Debug\enums.csprojResolveAssemblyReference.cache
-D:\aleena\c sha\enums\enums\obj\Debug\enums.csproj.CoreCompileInputs.cache
-D:\aleena\c sha\enums\enums\bin\Debug\enums.exe.config
-D:\aleena\c sha\enums\enums\bin\Debug\enums.exe
-D:\aleena\c sha\enums\enums\bin\Debug\enums.pdb
-D:\aleena\c sha\enums\enums\obj\Debug\enums.exe
-D:\aleena\c sha\enums\enums\obj\Debug\enums.pdb

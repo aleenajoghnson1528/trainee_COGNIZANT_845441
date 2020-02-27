@@ -1,6 +1,0 @@
-D:\aleena\30th\LibraryExample\LibraryExample\bin\Debug\LibraryExample.dll
-D:\aleena\30th\LibraryExample\LibraryExample\bin\Debug\LibraryExample.pdb
-D:\aleena\30th\LibraryExample\LibraryExample\obj\Debug\LibraryExample.csprojResolveAssemblyReference.cache
-D:\aleena\30th\LibraryExample\LibraryExample\obj\Debug\LibraryExample.csproj.CoreCompileInputs.cache
-D:\aleena\30th\LibraryExample\LibraryExample\obj\Debug\LibraryExample.dll
-D:\aleena\30th\LibraryExample\LibraryExample\obj\Debug\LibraryExample.pdb

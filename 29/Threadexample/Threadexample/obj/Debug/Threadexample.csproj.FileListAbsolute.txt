@@ -1,7 +1,0 @@
-D:\aleena\29\Threadexample\Threadexample\bin\Debug\Threadexample.exe.config
-D:\aleena\29\Threadexample\Threadexample\bin\Debug\Threadexample.exe
-D:\aleena\29\Threadexample\Threadexample\bin\Debug\Threadexample.pdb
-D:\aleena\29\Threadexample\Threadexample\obj\Debug\Threadexample.csprojResolveAssemblyReference.cache
-D:\aleena\29\Threadexample\Threadexample\obj\Debug\Threadexample.csproj.CoreCompileInputs.cache
-D:\aleena\29\Threadexample\Threadexample\obj\Debug\Threadexample.exe
-D:\aleena\29\Threadexample\Threadexample\obj\Debug\Threadexample.pdb

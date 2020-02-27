@@ -1,7 +1,0 @@
-D:\aleena\21\result\result\bin\Debug\result.exe.config
-D:\aleena\21\result\result\bin\Debug\result.exe
-D:\aleena\21\result\result\bin\Debug\result.pdb
-D:\aleena\21\result\result\obj\Debug\result.csprojResolveAssemblyReference.cache
-D:\aleena\21\result\result\obj\Debug\result.csproj.CoreCompileInputs.cache
-D:\aleena\21\result\result\obj\Debug\result.exe
-D:\aleena\21\result\result\obj\Debug\result.pdb

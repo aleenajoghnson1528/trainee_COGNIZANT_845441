@@ -1,7 +1,0 @@
-D:\aleena\27\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe.config
-D:\aleena\27\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe
-D:\aleena\27\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.pdb
-D:\aleena\27\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csprojResolveAssemblyReference.cache
-D:\aleena\27\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csproj.CoreCompileInputs.cache
-D:\aleena\27\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.exe
-D:\aleena\27\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.pdb

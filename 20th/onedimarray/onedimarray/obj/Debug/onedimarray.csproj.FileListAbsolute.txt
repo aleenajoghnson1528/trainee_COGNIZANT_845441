@@ -1,7 +1,0 @@
-c:\users\admin\source\repos\onedimarray\onedimarray\bin\Debug\onedimarray.exe.config
-c:\users\admin\source\repos\onedimarray\onedimarray\bin\Debug\onedimarray.exe
-c:\users\admin\source\repos\onedimarray\onedimarray\bin\Debug\onedimarray.pdb
-c:\users\admin\source\repos\onedimarray\onedimarray\obj\Debug\onedimarray.csprojResolveAssemblyReference.cache
-c:\users\admin\source\repos\onedimarray\onedimarray\obj\Debug\onedimarray.csproj.CoreCompileInputs.cache
-c:\users\admin\source\repos\onedimarray\onedimarray\obj\Debug\onedimarray.exe
-c:\users\admin\source\repos\onedimarray\onedimarray\obj\Debug\onedimarray.pdb

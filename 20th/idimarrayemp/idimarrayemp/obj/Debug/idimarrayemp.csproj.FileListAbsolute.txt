@@ -1,6 +1,0 @@
-c:\users\admin\source\repos\idimarrayemp\idimarrayemp\bin\Debug\idimarrayemp.exe.config
-c:\users\admin\source\repos\idimarrayemp\idimarrayemp\bin\Debug\idimarrayemp.exe
-c:\users\admin\source\repos\idimarrayemp\idimarrayemp\bin\Debug\idimarrayemp.pdb
-c:\users\admin\source\repos\idimarrayemp\idimarrayemp\obj\Debug\idimarrayemp.csproj.CoreCompileInputs.cache
-c:\users\admin\source\repos\idimarrayemp\idimarrayemp\obj\Debug\idimarrayemp.exe
-c:\users\admin\source\repos\idimarrayemp\idimarrayemp\obj\Debug\idimarrayemp.pdb

@@ -1,7 +1,0 @@
-D:\aleena\27\Fileexample\Fileexample\bin\Debug\Fileexample.exe.config
-D:\aleena\27\Fileexample\Fileexample\bin\Debug\Fileexample.exe
-D:\aleena\27\Fileexample\Fileexample\bin\Debug\Fileexample.pdb
-D:\aleena\27\Fileexample\Fileexample\obj\Debug\Fileexample.csprojResolveAssemblyReference.cache
-D:\aleena\27\Fileexample\Fileexample\obj\Debug\Fileexample.csproj.CoreCompileInputs.cache
-D:\aleena\27\Fileexample\Fileexample\obj\Debug\Fileexample.exe
-D:\aleena\27\Fileexample\Fileexample\obj\Debug\Fileexample.pdb

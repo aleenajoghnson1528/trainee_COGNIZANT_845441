@@ -1,7 +1,0 @@
-D:\aleena\28\Fileopearation\Fileopearation\bin\Debug\Fileopearation.exe.config
-D:\aleena\28\Fileopearation\Fileopearation\bin\Debug\Fileopearation.exe
-D:\aleena\28\Fileopearation\Fileopearation\bin\Debug\Fileopearation.pdb
-D:\aleena\28\Fileopearation\Fileopearation\obj\Debug\Fileopearation.csprojResolveAssemblyReference.cache
-D:\aleena\28\Fileopearation\Fileopearation\obj\Debug\Fileopearation.csproj.CoreCompileInputs.cache
-D:\aleena\28\Fileopearation\Fileopearation\obj\Debug\Fileopearation.exe
-D:\aleena\28\Fileopearation\Fileopearation\obj\Debug\Fileopearation.pdb

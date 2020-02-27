@@ -1,6 +1,0 @@
-D:\aleena\20th\2darray\2darray\bin\Debug\2darray.exe.config
-D:\aleena\20th\2darray\2darray\bin\Debug\2darray.exe
-D:\aleena\20th\2darray\2darray\bin\Debug\2darray.pdb
-D:\aleena\20th\2darray\2darray\obj\Debug\2darray.csproj.CoreCompileInputs.cache
-D:\aleena\20th\2darray\2darray\obj\Debug\2darray.exe
-D:\aleena\20th\2darray\2darray\obj\Debug\2darray.pdb

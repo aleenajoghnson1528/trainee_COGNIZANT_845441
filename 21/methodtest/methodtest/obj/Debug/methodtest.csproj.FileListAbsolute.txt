@@ -1,7 +1,0 @@
-D:\aleena\21\methodtest\methodtest\bin\Debug\methodtest.exe.config
-D:\aleena\21\methodtest\methodtest\bin\Debug\methodtest.exe
-D:\aleena\21\methodtest\methodtest\bin\Debug\methodtest.pdb
-D:\aleena\21\methodtest\methodtest\obj\Debug\methodtest.csproj.CoreCompileInputs.cache
-D:\aleena\21\methodtest\methodtest\obj\Debug\methodtest.exe
-D:\aleena\21\methodtest\methodtest\obj\Debug\methodtest.pdb
-D:\aleena\21\methodtest\methodtest\obj\Debug\methodtest.csprojResolveAssemblyReference.cache

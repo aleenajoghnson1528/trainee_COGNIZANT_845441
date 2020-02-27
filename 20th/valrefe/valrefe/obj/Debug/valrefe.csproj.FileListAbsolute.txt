@@ -1,7 +1,0 @@
-D:\aleena\20th\valrefe\valrefe\obj\Debug\valrefe.csproj.CoreCompileInputs.cache
-D:\aleena\20th\valrefe\valrefe\bin\Debug\valrefe.exe.config
-D:\aleena\20th\valrefe\valrefe\bin\Debug\valrefe.exe
-D:\aleena\20th\valrefe\valrefe\bin\Debug\valrefe.pdb
-D:\aleena\20th\valrefe\valrefe\obj\Debug\valrefe.exe
-D:\aleena\20th\valrefe\valrefe\obj\Debug\valrefe.pdb
-D:\aleena\20th\valrefe\valrefe\obj\Debug\valrefe.csprojResolveAssemblyReference.cache

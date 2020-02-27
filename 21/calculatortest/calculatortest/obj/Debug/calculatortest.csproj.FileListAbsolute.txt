@@ -1,7 +1,0 @@
-D:\aleena\21\calculatortest\calculatortest\obj\Debug\calculatortest.csproj.CoreCompileInputs.cache
-D:\aleena\21\calculatortest\calculatortest\bin\Debug\calculatortest.exe.config
-D:\aleena\21\calculatortest\calculatortest\bin\Debug\calculatortest.exe
-D:\aleena\21\calculatortest\calculatortest\bin\Debug\calculatortest.pdb
-D:\aleena\21\calculatortest\calculatortest\obj\Debug\calculatortest.exe
-D:\aleena\21\calculatortest\calculatortest\obj\Debug\calculatortest.pdb
-D:\aleena\21\calculatortest\calculatortest\obj\Debug\calculatortest.csprojResolveAssemblyReference.cache

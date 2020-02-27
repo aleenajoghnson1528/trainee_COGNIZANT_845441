@@ -1,7 +1,0 @@
-D:\aleena\28\Area\Area\bin\Debug\Area.exe.config
-D:\aleena\28\Area\Area\bin\Debug\Area.exe
-D:\aleena\28\Area\Area\bin\Debug\Area.pdb
-D:\aleena\28\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
-D:\aleena\28\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
-D:\aleena\28\Area\Area\obj\Debug\Area.exe
-D:\aleena\28\Area\Area\obj\Debug\Area.pdb

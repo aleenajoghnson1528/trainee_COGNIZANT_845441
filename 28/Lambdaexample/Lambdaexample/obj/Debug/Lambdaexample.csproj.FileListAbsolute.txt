@@ -1,7 +1,0 @@
-D:\aleena\28\Lambdaexample\Lambdaexample\bin\Debug\Lambdaexample.exe.config
-D:\aleena\28\Lambdaexample\Lambdaexample\bin\Debug\Lambdaexample.exe
-D:\aleena\28\Lambdaexample\Lambdaexample\bin\Debug\Lambdaexample.pdb
-D:\aleena\28\Lambdaexample\Lambdaexample\obj\Debug\Lambdaexample.csprojResolveAssemblyReference.cache
-D:\aleena\28\Lambdaexample\Lambdaexample\obj\Debug\Lambdaexample.csproj.CoreCompileInputs.cache
-D:\aleena\28\Lambdaexample\Lambdaexample\obj\Debug\Lambdaexample.exe
-D:\aleena\28\Lambdaexample\Lambdaexample\obj\Debug\Lambdaexample.pdb

@@ -1,7 +1,0 @@
-D:\aleena\20th\addusingclass\addusingclass\bin\Debug\addusingclass.exe.config
-D:\aleena\20th\addusingclass\addusingclass\bin\Debug\addusingclass.exe
-D:\aleena\20th\addusingclass\addusingclass\bin\Debug\addusingclass.pdb
-D:\aleena\20th\addusingclass\addusingclass\obj\Debug\addusingclass.csprojResolveAssemblyReference.cache
-D:\aleena\20th\addusingclass\addusingclass\obj\Debug\addusingclass.csproj.CoreCompileInputs.cache
-D:\aleena\20th\addusingclass\addusingclass\obj\Debug\addusingclass.exe
-D:\aleena\20th\addusingclass\addusingclass\obj\Debug\addusingclass.pdb

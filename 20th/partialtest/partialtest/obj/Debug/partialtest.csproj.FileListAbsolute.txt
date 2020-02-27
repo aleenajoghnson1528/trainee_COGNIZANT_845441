@@ -1,7 +1,0 @@
-D:\aleena\20th\partialtest\partialtest\bin\Debug\partialtest.exe.config
-D:\aleena\20th\partialtest\partialtest\bin\Debug\partialtest.exe
-D:\aleena\20th\partialtest\partialtest\bin\Debug\partialtest.pdb
-D:\aleena\20th\partialtest\partialtest\obj\Debug\partialtest.csprojResolveAssemblyReference.cache
-D:\aleena\20th\partialtest\partialtest\obj\Debug\partialtest.csproj.CoreCompileInputs.cache
-D:\aleena\20th\partialtest\partialtest\obj\Debug\partialtest.exe
-D:\aleena\20th\partialtest\partialtest\obj\Debug\partialtest.pdb

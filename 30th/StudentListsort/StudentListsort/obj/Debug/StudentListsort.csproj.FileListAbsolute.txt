@@ -1,6 +1,0 @@
-D:\aleena\30th\StudentListsort\StudentListsort\obj\Debug\StudentListsort.csproj.CoreCompileInputs.cache
-D:\aleena\30th\StudentListsort\StudentListsort\bin\Debug\StudentListsort.exe.config
-D:\aleena\30th\StudentListsort\StudentListsort\bin\Debug\StudentListsort.exe
-D:\aleena\30th\StudentListsort\StudentListsort\bin\Debug\StudentListsort.pdb
-D:\aleena\30th\StudentListsort\StudentListsort\obj\Debug\StudentListsort.exe
-D:\aleena\30th\StudentListsort\StudentListsort\obj\Debug\StudentListsort.pdb

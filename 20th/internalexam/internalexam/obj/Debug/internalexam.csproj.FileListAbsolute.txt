@@ -1,7 +1,0 @@
-D:\aleena\20th\internalexam\internalexam\bin\Debug\internalexam.exe.config
-D:\aleena\20th\internalexam\internalexam\bin\Debug\internalexam.exe
-D:\aleena\20th\internalexam\internalexam\bin\Debug\internalexam.pdb
-D:\aleena\20th\internalexam\internalexam\obj\Debug\internalexam.csprojResolveAssemblyReference.cache
-D:\aleena\20th\internalexam\internalexam\obj\Debug\internalexam.csproj.CoreCompileInputs.cache
-D:\aleena\20th\internalexam\internalexam\obj\Debug\internalexam.exe
-D:\aleena\20th\internalexam\internalexam\obj\Debug\internalexam.pdb
